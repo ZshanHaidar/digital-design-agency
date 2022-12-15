@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/digital-design-agency/static/css/main.09ace6e3.css",
+    "main.js": "/digital-design-agency/static/js/main.c7949cf4.js",
+    "static/media/galaxy.jpg": "/digital-design-agency/static/media/galaxy.72211ce8139f1618d5e6.jpg",
+    "static/media/man-presenting.jpg": "/digital-design-agency/static/media/man-presenting.fb3304600030d2ee851a.jpg",
+    "static/media/smiling-man.jpg": "/digital-design-agency/static/media/smiling-man.08931e0de8aa3a69b9dc.jpg",
+    "static/media/student.jpg": "/digital-design-agency/static/media/student.4962d439c6d33b3d3fe7.jpg",
+    "static/media/smiling-woman.jpg": "/digital-design-agency/static/media/smiling-woman.cfad11faa0dd016b4193.jpg",
+    "static/media/smiling.jpg": "/digital-design-agency/static/media/smiling.99cc57b00a9b88439f81.jpg",
+    "static/media/Woman.jpg": "/digital-design-agency/static/media/Woman.cc630c778c70efcf088a.jpg",
+    "static/media/man.jpg": "/digital-design-agency/static/media/man.1efbe3976ad2a2b5c00b.jpg",
+    "index.html": "/digital-design-agency/index.html",
+    "main.09ace6e3.css.map": "/digital-design-agency/static/css/main.09ace6e3.css.map",
+    "main.c7949cf4.js.map": "/digital-design-agency/static/js/main.c7949cf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09ace6e3.css",
+    "static/js/main.c7949cf4.js"
+  ]
+}
