@@ -26,7 +26,7 @@ const Teamwork = () => {
               veniam praesentium doloremque. Fugit, beatae possimus.
             </p>
 
-            <div className="flex text-[#3a50f9] items-center justify-between max-w-[150px] py-4">
+            <div className="flex text-[#3a50f9] items-center justify-between max-w-[150px] py-4 mx-4 sm:mx-0">
               <BsFacebook size={30} />
               <AiFillTwitterCircle size={34} />
               <FaInstagramSquare size={30} />
@@ -49,7 +49,7 @@ const Teamwork = () => {
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laborum
               veniam praesentium doloremque. Fugit, beatae possimus.
             </p>
-            <div className="flex text-[#3a50f9] items-center justify-between max-w-[150px] py-4">
+            <div className="flex text-[#3a50f9] items-center justify-between max-w-[150px] py-4 mx-4 sm:mx-0">
               <BsFacebook size={30} />
               <AiFillTwitterCircle size={34} />
               <FaInstagramSquare size={30} />

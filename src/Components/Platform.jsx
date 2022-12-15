@@ -7,11 +7,11 @@ const Platform = () => {
       <div className="grid sm:grid-cols-2">
         {/* left Side */}
         <div className="flex justify-center items-center">
-          <div className="flex justify-center items-center bg-[#3a50f9] rounded-full w-[400px] h-[400px] hover:scale-105 duration-300">
+          <div className="flex justify-center items-center bg-[#3a50f9] rounded-full w-[300px] h-[300px] md:w-[400px] md:h-[400px] hover:scale-105 duration-300">
             <img
               src={smiling}
               alt="/"
-              class="w-96 h-96 rounded-full object-cover"
+              class="md:w-96 md:h-96 w-[285px] h-[285px] rounded-full object-cover"
             />
           </div>
         </div>
